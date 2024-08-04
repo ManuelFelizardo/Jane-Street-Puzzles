@@ -11,3 +11,14 @@ The repository is organized by puzzle, with each puzzle having its own directory
 - **Puzzle Description**: A brief description of the puzzle.
 - **Solution Explanation**: An explanation of the approach and methodology used to solve the puzzle.
 - **Code Implementation**: The code used to solve the puzzle.
+
+## Puzzles solved since starting (01/2024):
+2024:
+- ✅ January
+- ✅ February
+- ✅ March
+- ✅ April
+- ✅ May
+- ✅ June
+- ✅ July
+- ✅ August
